@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content.md",
+                "file": "Programming Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Content"
+              "title": "Programming Notes"
             }
           }
         ]
@@ -154,7 +154,7 @@
             }
           },
           {
-            "id": "8b646094fc94fc6c",
+            "id": "7f07df5468aca9ea",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -184,10 +184,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8b646094fc94fc6c",
+  "active": "25b41cf89dc0a271",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-10-24 09.54.30.excalidraw.md",
-    "Content.md",
+    "Programming Notes.md",
     "Excalidraw",
     "Untitled"
   ]
