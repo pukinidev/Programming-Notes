@@ -6,13 +6,13 @@
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />             | [[Python]]     |
 | -------------------------------------------------------------------------------------------------------------- | -------------- |
-|                                                                                                                |                |
-|                                                                                                                |                |
-|                                                                                                                |                |
-|                                                                                                                |                |
-|                                                                                                                |                |
-|                                                                                                                |                |
-|                                                                                                                | [[PHP]]        |
+|                                                                                                                | [[C]]          |
+|                                                                                                                | [[Rust]]       |
+|                                                                                                                | [[R]]          |
+|                                                                                                                | [[Swift]]      |
+|                                                                                                                | [[SQL]]        |
+|                                                                                                                | [[Lua]]        |
+|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />                  | [[PHP]]        |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />                 | [[Dart]]       |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /><br>                 | [[Go]]         |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><br>             | [[Java]]       |
