@@ -4,8 +4,9 @@
 # Content
 ## Programming Languages
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />                     | [[Python]]     |
+| Image                                                                                                                  | Language       |
 | ---------------------------------------------------------------------------------------------------------------------- | -------------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />                     | [[Python]]     |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />                     | [[C]]          |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />                         | [[Rust]]       |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />                               | [[R]]          |
