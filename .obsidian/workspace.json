@@ -152,9 +152,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8b646094fc94fc6c",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -169,13 +179,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5a0d67ef395d07ed",
+  "active": "8b646094fc94fc6c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-24 09.54.30.excalidraw.md",
     "Content.md",
-    "Content.md",
+    "Excalidraw",
     "Untitled"
   ]
 }
