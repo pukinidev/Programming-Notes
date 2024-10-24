@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Typescript.md",
+                "file": "Programming Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Typescript"
+              "title": "Programming Notes"
             }
           },
           {
@@ -200,6 +200,7 @@
   },
   "active": "25b41cf89dc0a271",
   "lastOpenFiles": [
+    "Programming Languages/Typescript.md",
     "Programming Notes.md",
     "Programming Languages/Shell.md",
     "Programming Languages/Lua.md",
@@ -214,7 +215,6 @@
     "Programming Languages/Kotlin.md",
     "Programming Languages/Dart.md",
     "Programming Languages/Java.md",
-    "Programming Languages/Typescript.md",
     "Programming Languages/Javascript.md",
     "Programming Languages/Python.md",
     "Programming Languages",
