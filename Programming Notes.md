@@ -4,6 +4,6 @@
 # Content
 ## Programming Languages
 
-|        | Icon |
-| ------ | ---- |
-| Python |      |
+| I**con** | **Language** |
+| -------- | ------------ |
+|          | [[Python]]   |
