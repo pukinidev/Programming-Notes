@@ -4,6 +4,6 @@
 # Content
 ## Programming Languages
 
-| Language | Page |
-| -------- | ---- |
-| Python   |      |
+|        | Icon |
+| ------ | ---- |
+| Python |      |
