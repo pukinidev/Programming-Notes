@@ -1,1 +1,3 @@
-This is a repository of notes from m
+Learning repository made by @PUKINIDEV!
+
+# Programming Languages
