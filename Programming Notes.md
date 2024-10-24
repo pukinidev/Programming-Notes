@@ -4,6 +4,7 @@
 # Content
 ## Programming Languages
 
-| I**con** | **Language** |
-| -------- | ------------ |
-|          | [[Python]]   |
+| I**con**            | **Language** |
+| ------------------- | ------------ |
+| ["python icon"]("") | [[Python]]   |
+|                     |              |
