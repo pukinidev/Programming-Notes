@@ -1,4 +1,4 @@
 
 > [!tip] About
-> Learning repository made by <font color="#0070c0">@PUKINIDEV</font>!
+> Learning repository made by <font color="#00b0f0">@PUKINIDEV</font>
 # Content
