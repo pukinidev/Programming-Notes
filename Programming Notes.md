@@ -4,19 +4,19 @@
 # Content
 ## Programming Languages
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />             | [[Python]]     |
-| -------------------------------------------------------------------------------------------------------------- | -------------- |
-|                                                                                                                | [[C]]          |
-|                                                                                                                | [[Rust]]       |
-|                                                                                                                | [[R]]          |
-|                                                                                                                | [[Swift]]      |
-|                                                                                                                | [[SQL]]        |
-|                                                                                                                | [[Lua]]        |
-|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />                  | [[PHP]]        |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />                 | [[Dart]]       |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /><br>                 | [[Go]]         |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><br>             | [[Java]]       |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><br> | [[Javascript]] |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /><br>         | [[Kotlin]]     |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />                 | [[Ruby]]       |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /><br> | [[Typescript]] |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />                     | [[Python]]     |
+| ---------------------------------------------------------------------------------------------------------------------- | -------------- |
+|                                                                                                                        | [[C]]          |
+|                                                                                                                        | [[Rust]]       |
+|                                                                                                                        | [[R]]          |
+| <br>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />             | [[Swift]]      |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> | [[SQL]]        |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />                           | [[Lua]]        |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />                           | [[PHP]]        |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />                         | [[Dart]]       |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /><br>                         | [[Go]]         |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><br>                     | [[Java]]       |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><br>         | [[Javascript]] |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /><br>                 | [[Kotlin]]     |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />                         | [[Ruby]]       |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /><br>         | [[Typescript]] |
