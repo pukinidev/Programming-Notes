@@ -174,8 +174,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e4a81ab285ed58f",
+  "active": "6acd26bf5343788e",
   "lastOpenFiles": [
+    "Untitled",
     "Programming Languages/Dart.md",
     "Programming Notes.md",
     "Programming Languages/Typescript.md",
@@ -202,7 +203,6 @@
     "Programming-Notes/Programming Languages/Rust.md",
     "Programming-Notes/Programming Languages/Ruby.md",
     "Programming-Notes/Programming Languages/R.md",
-    "Programming-Notes/Programming Languages/Python.md",
     "Programming-Notes/Programming Languages",
     "Programming-Notes"
   ]
