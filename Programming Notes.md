@@ -4,7 +4,8 @@
 # Content
 ## Programming Languages
 
-| Image                                                                                                                  | Language       |
+
+| **Image**                                                                                                              | **Language**   |
 | ---------------------------------------------------------------------------------------------------------------------- | -------------- |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />                     | [[Python]]     |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />                     | [[C]]          |
