@@ -136,9 +136,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Programming Notes.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Programming Notes"
             }
           },
           {
@@ -152,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,7 +171,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6acd26bf5343788e",
+  "active": "aa8ca2ae75be8714",
   "lastOpenFiles": [
     "Programming Notes.md",
     "Programming Languages/Typescript.md",
