@@ -8,7 +8,7 @@
 | ---------------------------------------------------------------------------------------------------------------------- | -------------- |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />                     | [[C]]          |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />                         | [[Rust]]       |
-|                                                                                                                        | [[R]]          |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />                               | [[R]]          |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />                       | [[Swift]]      |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> | [[SQL]]        |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />                           | [[Lua]]        |
