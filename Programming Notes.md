@@ -12,11 +12,11 @@
 |                                                                                                                |                |
 |                                                                                                                |                |
 |                                                                                                                |                |
-|                                                                                                                |                |
+|                                                                                                                | [[PHP]]        |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />                 | [[Dart]]       |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /><br>                 | [[Go]]         |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><br>             | [[Java]]       |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><br> |                |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><br> | [[Javascript]] |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /><br>         | [[Kotlin]]     |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />                 | [[Ruby]]       |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /><br> | [[Typescript]] |
