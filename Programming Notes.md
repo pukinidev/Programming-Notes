@@ -28,9 +28,9 @@
 
 ### Frameworks
 
-| Framn |     |
-| ----- | --- |
-|       |     |
+| Icon | Framework |
+| ---- | --------- |
+|      |           |
 
 
 
