@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Libraries/Vue Frameworks/Nuxt JS.md",
+                "file": "Programming Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nuxt JS"
+              "title": "Programming Notes"
             }
           }
         ]
@@ -137,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Libraries/Vue Frameworks/Nuxt JS.md"
+                "file": "Programming Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Nuxt JS"
+              "title": "Outline of Programming Notes"
             }
           },
           {
@@ -189,6 +189,7 @@
   },
   "active": "25b41cf89dc0a271",
   "lastOpenFiles": [
+    "Web Libraries/Vue Frameworks/Nuxt JS.md",
     "Web Libraries/React Frameworks/Astro.md",
     "Web Libraries/React Frameworks/Next JS.md",
     "Web Libraries/Styles/Preprocessors/Sass.md",
@@ -197,7 +198,6 @@
     "Web Libraries/Vue.md",
     "Web Libraries/React.md",
     "Web Libraries/Angular.md",
-    "Web Libraries/Vue Frameworks/Nuxt JS.md",
     "Web Libraries/Svelte Framewroks/Svelte Kit.md",
     "Web Libraries/Svelte.md",
     "Web Libraries/Svelte Framewroks",
