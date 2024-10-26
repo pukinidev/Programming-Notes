@@ -33,9 +33,10 @@
 - [[Sass]]
 - [[PostCSS]]
 
-flowchart TD
+```mermaid
+flowchart LR
 Start --> Stop
-
+```
 
 
 ## Frameworks Backend
