@@ -187,13 +187,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2770407927992277",
+  "active": "25b41cf89dc0a271",
   "lastOpenFiles": [
-    "Web Libraries/Module",
+    "Web Libraries/Module Bundlers/Vite.md",
+    "Web Libraries/Module Bundlers/Webpack.md",
+    "Programming Notes.md",
+    "Web Libraries/Module Bundlers",
     "Web Libraries/Package Managers/npm.md",
     "Web Libraries/Package Managers/yarn.md",
     "Web Libraries/Package Managers/pnpm.md",
-    "Programming Notes.md",
     "Web Libraries/Package Managers",
     "Web Libraries/Linters and Formatters/ESLint.md",
     "Web Libraries/Linters and Formatters/Prettier.md",
@@ -222,8 +224,6 @@
     "Programming Languages/Javascript.md",
     "Web Libraries/Styles",
     "Programming Languages/Typescript.md",
-    "Programming Languages/Shell.md",
-    "Programming Languages/Lua.md",
-    "Programming Languages"
+    "Programming Languages/Shell.md"
   ]
 }
