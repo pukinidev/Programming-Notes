@@ -28,11 +28,12 @@
 
 ### Frameworks
 
-| Icon                                                                                                 | Framework |
-| ---------------------------------------------------------------------------------------------------- | --------- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />     | [[React]] |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />     | [[Vue]]   |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> |           |
+| Icon                                                                                                 | Framework   |
+| ---------------------------------------------------------------------------------------------------- | ----------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />     | [[React]]   |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />     | [[Vue]]     |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> | [[Angular]] |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />   | [[Svelte]]  |
 
 ### Styles
 [[CSS]] 
