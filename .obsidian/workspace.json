@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "6cca9704bd901a94",
+    "id": "7d25ad18c45ad419",
     "type": "split",
     "children": [
       {
-        "id": "9338315dc5d9a31b",
+        "id": "c3c98253c7101c0e",
         "type": "tabs",
         "children": [
           {
-            "id": "5e4a81ab285ed58f",
+            "id": "25b41cf89dc0a271",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Programming Notes"
             }
+          },
+          {
+            "id": "31764eb1879091bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Javascript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript"
+            }
           }
         ]
       }
@@ -27,15 +41,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ec177424e29bac39",
+    "id": "c18eb736a84795ef",
     "type": "split",
     "children": [
       {
-        "id": "1eaf08548420ca9e",
+        "id": "3a898e53540dea4b",
         "type": "tabs",
         "children": [
           {
-            "id": "6acd26bf5343788e",
+            "id": "2770407927992277",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +61,7 @@
             }
           },
           {
-            "id": "a622323784c0511c",
+            "id": "035276c97eff9b07",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +78,7 @@
             }
           },
           {
-            "id": "9f38f72298c17019",
+            "id": "a4ae4aaaca87283c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,15 +94,15 @@
     "width": 300
   },
   "right": {
-    "id": "11beef6b04894905",
+    "id": "1908ac99817a8a5b",
     "type": "split",
     "children": [
       {
-        "id": "743a9a69ff215957",
+        "id": "5c4f89b2303e7660",
         "type": "tabs",
         "children": [
           {
-            "id": "def7de3e654bfb86",
+            "id": "1cecc88d4f1bfafe",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +120,7 @@
             }
           },
           {
-            "id": "6bb9be4ce3ed069b",
+            "id": "51abb8a2e9a08778",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -119,7 +133,7 @@
             }
           },
           {
-            "id": "a472bd261da229ea",
+            "id": "32c381a8d8d80dd9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,19 +146,19 @@
             }
           },
           {
-            "id": "aa8ca2ae75be8714",
+            "id": "c1192dc3aa2829ce",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Notes.md"
+                "file": "Content.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Programming Notes"
+              "title": "Outline of Content"
             }
           },
           {
-            "id": "0dacc940a6a27828",
+            "id": "5a0d67ef395d07ed",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -152,9 +166,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7f07df5468aca9ea",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,50 +186,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5e4a81ab285ed58f",
+  "active": "25b41cf89dc0a271",
   "lastOpenFiles": [
-    "Frameworks Backend",
-    "Frameworks Mobile",
-    "Frameworks Web - Frontend",
-    "Programming Languages/Dart.md",
-    "Programming Notes.md",
     "Programming Languages/Typescript.md",
-    "Programming Languages/Swift.md",
-    "Programming Languages/SQL.md",
+    "Programming Notes.md",
     "Programming Languages/Shell.md",
-    "Programming Languages/Rust.md",
-    "Programming Languages/Ruby.md",
-    "Programming Languages/R.md",
-    "Programming Languages/Python.md",
-    "Programming Languages/PHP.md",
     "Programming Languages/Lua.md",
-    "Programming Languages/Javascript.md",
-    "Programming Languages/Kotlin.md",
-    "Programming Languages/Java.md",
+    "Programming Languages/SQL.md",
+    "Programming Languages/R.md",
+    "Programming Languages/Rust.md",
     "Programming Languages/Go.md",
+    "Programming Languages/PHP.md",
+    "Programming Languages/Ruby.md",
     "Programming Languages/C.md",
+    "Programming Languages/Swift.md",
+    "Programming Languages/Kotlin.md",
+    "Programming Languages/Dart.md",
+    "Programming Languages/Java.md",
+    "Programming Languages/Javascript.md",
+    "Programming Languages/Python.md",
     "Programming Languages",
-    "Programming-Notes/Programming Notes.md",
-    "Programming-Notes/Programming Languages/Typescript.md",
-    "Programming-Notes/Programming Languages/Swift.md",
-    "Programming-Notes/Programming Languages/SQL.md",
-    "Programming-Notes/Programming Languages/Shell.md",
-    "Programming-Notes/Programming Languages/Rust.md",
-    "Programming-Notes/Programming Languages/Ruby.md",
-    "Programming-Notes/Programming Languages/R.md",
-    "Programming-Notes/Programming Languages",
-    "Programming-Notes"
+    "Excalidraw/Drawing 2024-10-24 09.54.30.excalidraw.md",
+    "Excalidraw"
   ]
 }
