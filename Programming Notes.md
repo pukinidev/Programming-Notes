@@ -57,7 +57,6 @@
 - [[Material UI]]
 - [[Tailwind CSS]]
 - [[Shadcn]]
-
 ## Frameworks Mobile
 
 
