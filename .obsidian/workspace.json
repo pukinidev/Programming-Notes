@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Styles/Sass.md",
+                "file": "Programming Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sass"
+              "title": "Programming Notes"
             }
           },
           {
@@ -198,11 +198,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2770407927992277",
+  "active": "25b41cf89dc0a271",
   "lastOpenFiles": [
-    "Styles/CSS.md",
-    "Styles/Sass.md",
+    "Styles/PostCSS.md",
     "Programming Notes.md",
+    "Styles/Sass.md",
+    "Styles/CSS.md",
     "Styles",
     "Programming Languages/Typescript.md",
     "Programming Languages/Shell.md",
