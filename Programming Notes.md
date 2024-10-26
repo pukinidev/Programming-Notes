@@ -20,7 +20,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /><br>                 | [[Kotlin]]     |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />                         | [[Ruby]]       |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /><br>         | [[Typescript]] |
-## Web Libraries - Frontend
+## Frontend
 
 | Icon                                                                                                 | Library     |
 | ---------------------------------------------------------------------------------------------------- | ----------- |
