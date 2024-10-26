@@ -30,8 +30,8 @@
 ### Styles
 [[CSS]] 
 #### CSS preprocessors
-[[Sass]]
-[[PostCSS]]
+- [[Sass]]
+- [[PostCSS]]
 ## Frameworks Backend
 
 
