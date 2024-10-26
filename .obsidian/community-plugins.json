@@ -3,5 +3,7 @@
   "obsidian-importer",
   "obsidian-excalidraw-plugin",
   "mermaid-tools",
-  "editing-toolbar"
+  "editing-toolbar",
+  "dataview",
+  "obsidian-auto-link-title"
 ]
