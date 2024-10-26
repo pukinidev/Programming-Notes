@@ -1,5 +1,5 @@
 > [!tip] About
-> Learning repository made by <font color="#00b0f0">@PUKINIDEV</font>
+> Learning repository made by <font color="#e5b9b7">@PUKINIDEV</font>
 # Content
 ## Programming Languages 
 
@@ -29,9 +29,10 @@
 
 ### Styles
 [[CSS]] 
-#### CSS preprocessors
+#### CSS Preprocessors
 - [[Sass]]
 - [[PostCSS]]
+
 ## Frameworks Backend
 
 

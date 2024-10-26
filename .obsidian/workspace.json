@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Styles/PostCSS.md",
+                "file": "Programming Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PostCSS"
+              "title": "Programming Notes"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "25b41cf89dc0a271",
   "lastOpenFiles": [
-    "Programming Languages/Javascript.md",
     "Styles/PostCSS.md",
+    "Programming Languages/Javascript.md",
     "Programming Notes.md",
     "Styles/Sass.md",
     "Styles/CSS.md",
