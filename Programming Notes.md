@@ -26,19 +26,14 @@
 
 ## Frameworks Web - Frontend
 
+### Fran
+
 
 ### Styles
 [[CSS]] 
 #### CSS Preprocessors
 - [[Sass]]
 - [[PostCSS]]
-
-```mermaid
-flowchart LR
-Start --> Stop
-```
-
-
 ## Frameworks Backend
 
 
