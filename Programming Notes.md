@@ -39,10 +39,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> | [[Next JS]]    |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />   | [[Astro]]      |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" /> | [[Svelte Kit]] |
-|                                                                                                    |                |
-
-
-
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" /> | [[Nuxt JS]]    |
 
 ### Styles
 [[CSS]] 
