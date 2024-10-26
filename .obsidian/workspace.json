@@ -189,9 +189,12 @@
   },
   "active": "25b41cf89dc0a271",
   "lastOpenFiles": [
+    "Web Libraries/Linters and Formaters/ESLint.md",
+    "Web Libraries/Linters and Formaters/Prettier.md",
+    "Programming Notes.md",
+    "Web Libraries/Linters and Formaters",
     "Web Libraries/Styles/CSS.md",
     "Web Libraries/Styles/CSS Frameworks/Shadcn.md",
-    "Programming Notes.md",
     "Web Libraries/Styles/CSS Frameworks/Bootstrap.md",
     "Web Libraries/Styles/CSS Frameworks/Material UI.md",
     "Web Libraries/Styles/CSS Frameworks/Tailwind CSS.md",
@@ -220,8 +223,6 @@
     "Programming Languages/R.md",
     "Programming Languages/Rust.md",
     "Programming Languages/Go.md",
-    "Programming Languages/PHP.md",
-    "Programming Languages/Ruby.md",
     "Programming Languages",
     "Excalidraw"
   ]
