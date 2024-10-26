@@ -137,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content.md"
+                "file": "Programming Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Content"
+              "title": "Outline of Programming Notes"
             }
           },
           {
@@ -164,11 +164,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 730.5
+    "width": 730.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,16 +182,18 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "fda9512e3b1ca9c0",
+  "active": "25b41cf89dc0a271",
   "lastOpenFiles": [
+    "Styles/CSS.md",
+    "Programming Notes.md",
     "Styles/PostCSS.md",
     "Programming Languages/Javascript.md",
-    "Programming Notes.md",
     "Styles/Sass.md",
-    "Styles/CSS.md",
     "Styles",
     "Programming Languages/Typescript.md",
     "Programming Languages/Shell.md",

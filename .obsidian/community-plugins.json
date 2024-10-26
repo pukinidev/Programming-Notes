@@ -5,5 +5,8 @@
   "mermaid-tools",
   "editing-toolbar",
   "dataview",
-  "obsidian-auto-link-title"
+  "obsidian-auto-link-title",
+  "obsidian-linter",
+  "templater-obsidian",
+  "obsidian-advanced-slides"
 ]
