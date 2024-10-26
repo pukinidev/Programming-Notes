@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Notes.md",
+                "file": "Web Libraries/React Frameworks/Next JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming Notes"
+              "title": "Next JS"
             }
           }
         ]
@@ -137,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Notes.md"
+                "file": "Web Libraries/React Frameworks/Next JS.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Programming Notes"
+              "title": "Outline of Next JS"
             }
           },
           {
@@ -189,12 +189,16 @@
   },
   "active": "2770407927992277",
   "lastOpenFiles": [
-    "Web Libraries/Untitled",
+    "Web Libraries/React Frameworks/Astro.md",
+    "Web Libraries/React Frameworks/Next JS.md",
+    "Programming Notes.md",
+    "Web Libraries/Svelte Framewroks",
+    "Web Libraries/Vue Frameworks",
+    "Web Libraries/React Frameworks",
     "Web Libraries/Svelte.md",
     "Web Libraries/Vue.md",
     "Web Libraries/Angular.md",
     "Web Libraries/React.md",
-    "Programming Notes.md",
     "Web Libraries",
     "Web Libraries/Styles/Preprocessors/Sass.md",
     "Web Libraries/Styles/Preprocessors/PostCSS.md",
@@ -218,7 +222,6 @@
     "Programming Languages/Java.md",
     "Programming Languages/Python.md",
     "Programming Languages",
-    "Excalidraw/Drawing 2024-10-24 09.54.30.excalidraw.md",
     "Excalidraw"
   ]
 }
