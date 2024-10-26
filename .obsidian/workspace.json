@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Notes.md",
+                "file": "Web Libraries/Package Managers/NPM vs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming Notes"
+              "title": "NPM vs"
             }
           }
         ]
@@ -137,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Notes.md"
+                "file": "Web Libraries/Package Managers/NPM vs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Programming Notes"
+              "title": "Outline of NPM vs"
             }
           },
           {
@@ -187,11 +187,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2770407927992277",
+  "active": "25b41cf89dc0a271",
   "lastOpenFiles": [
+    "Web Libraries/Package Managers/yarn.md",
+    "Web Libraries/Package Managers/pnpm.md",
+    "Web Libraries/Package Managers/NPM vs.md",
+    "Programming Notes.md",
+    "Web Libraries/Package Managers",
     "Web Libraries/Linters and Formatters/ESLint.md",
     "Web Libraries/Linters and Formatters/Prettier.md",
-    "Programming Notes.md",
     "Web Libraries/Linters and Formatters",
     "Web Libraries/Styles/CSS.md",
     "Web Libraries/Styles/CSS Frameworks/Shadcn.md",
@@ -220,10 +224,6 @@
     "Programming Languages/Shell.md",
     "Programming Languages/Lua.md",
     "Programming Languages/SQL.md",
-    "Programming Languages/R.md",
-    "Programming Languages/Rust.md",
-    "Programming Languages/Go.md",
-    "Programming Languages",
-    "Excalidraw"
+    "Programming Languages"
   ]
 }
