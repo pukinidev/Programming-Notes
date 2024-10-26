@@ -24,7 +24,7 @@
 
 
 
-## Web - Frontend
+## Frameworks Web - Frontend
 
 ### Frameworks
 
@@ -34,7 +34,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />     | [[Vue]]     |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> | [[Angular]] |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />   | [[Svelte]]  |
-#### 
+#### Frameworks based on 
 ### Styles
 [[CSS]] 
 #### CSS Preprocessors
