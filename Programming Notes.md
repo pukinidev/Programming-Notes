@@ -41,8 +41,9 @@
 - [[npm]]
 - [[pnpm]]
 - [[yarn]]
-
-### Module Bu
+### Module Bundlers
+- [[Webpack]]
+- [[Vite]]
 ### Linters and Formatters
 - [[ESLint]]
 - [[Prettier]]
