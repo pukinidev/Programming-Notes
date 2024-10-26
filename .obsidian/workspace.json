@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Notes.md",
+                "file": "Web Libraries/Styles/CSS Frameworks/Boostrap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming Notes"
+              "title": "Boostrap"
             }
           }
         ]
@@ -137,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Notes.md"
+                "file": "Web Libraries/Styles/CSS Frameworks/Boostrap.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Programming Notes"
+              "title": "Outline of Boostrap"
             }
           },
           {
@@ -189,12 +189,16 @@
   },
   "active": "25b41cf89dc0a271",
   "lastOpenFiles": [
+    "Web Libraries/Styles/CSS Frameworks/Material UI.md",
+    "Web Libraries/Styles/CSS Frameworks/Boostrap.md",
+    "Web Libraries/Styles/CSS Frameworks/Tailwind CSS.md",
+    "Programming Notes.md",
+    "Web Libraries/Styles/CSS Frameworks",
     "Web Libraries/Vue Frameworks/Nuxt JS.md",
     "Web Libraries/React Frameworks/Astro.md",
     "Web Libraries/React Frameworks/Next JS.md",
     "Web Libraries/Styles/Preprocessors/Sass.md",
     "Web Libraries/Styles/Preprocessors/PostCSS.md",
-    "Programming Notes.md",
     "Web Libraries/Vue.md",
     "Web Libraries/React.md",
     "Web Libraries/Angular.md",
@@ -218,9 +222,6 @@
     "Programming Languages/PHP.md",
     "Programming Languages/Ruby.md",
     "Programming Languages/C.md",
-    "Programming Languages/Swift.md",
-    "Programming Languages/Kotlin.md",
-    "Programming Languages/Dart.md",
     "Programming Languages",
     "Excalidraw"
   ]
