@@ -34,9 +34,10 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />   | [[Svelte]]  |
 ### Frameworks 
 
-| Icon | Framework |
-| ---- | --------- |
-|      |           |
+| Icon                                                                                               | Framework   |
+| -------------------------------------------------------------------------------------------------- | ----------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> | [[Next JS]] |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />   | [[Astro]]   |
 
 
 
