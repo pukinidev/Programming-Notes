@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "7d25ad18c45ad419",
+    "id": "6cca9704bd901a94",
     "type": "split",
     "children": [
       {
-        "id": "c3c98253c7101c0e",
+        "id": "9338315dc5d9a31b",
         "type": "tabs",
         "children": [
           {
-            "id": "25b41cf89dc0a271",
+            "id": "5e4a81ab285ed58f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c18eb736a84795ef",
+    "id": "ec177424e29bac39",
     "type": "split",
     "children": [
       {
-        "id": "3a898e53540dea4b",
+        "id": "1eaf08548420ca9e",
         "type": "tabs",
         "children": [
           {
-            "id": "2770407927992277",
+            "id": "6acd26bf5343788e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "035276c97eff9b07",
+            "id": "a622323784c0511c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "a4ae4aaaca87283c",
+            "id": "9f38f72298c17019",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,15 +80,15 @@
     "width": 300
   },
   "right": {
-    "id": "1908ac99817a8a5b",
+    "id": "11beef6b04894905",
     "type": "split",
     "children": [
       {
-        "id": "5c4f89b2303e7660",
+        "id": "743a9a69ff215957",
         "type": "tabs",
         "children": [
           {
-            "id": "1cecc88d4f1bfafe",
+            "id": "def7de3e654bfb86",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "51abb8a2e9a08778",
+            "id": "6bb9be4ce3ed069b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -119,7 +119,7 @@
             }
           },
           {
-            "id": "32c381a8d8d80dd9",
+            "id": "a472bd261da229ea",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,7 +132,7 @@
             }
           },
           {
-            "id": "c1192dc3aa2829ce",
+            "id": "aa8ca2ae75be8714",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -144,7 +144,7 @@
             }
           },
           {
-            "id": "5a0d67ef395d07ed",
+            "id": "0dacc940a6a27828",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -152,78 +152,65 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "fda9512e3b1ca9c0",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 730.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25b41cf89dc0a271",
+  "active": "5e4a81ab285ed58f",
   "lastOpenFiles": [
-    "Web Libraries/Styles/CSS Frameworks/Shadcn.md",
-    "Programming Notes.md",
-    "Web Libraries/Module Bundlers/Vite.md",
-    "Web Libraries/Module Bundlers/Webpack.md",
-    "Web Libraries/Module Bundlers",
-    "Web Libraries/Package Managers/npm.md",
-    "Web Libraries/Package Managers/yarn.md",
-    "Web Libraries/Package Managers/pnpm.md",
-    "Web Libraries/Package Managers",
-    "Web Libraries/Linters and Formatters/ESLint.md",
-    "Web Libraries/Linters and Formatters/Prettier.md",
-    "Web Libraries/Linters and Formatters",
-    "Web Libraries/Styles/CSS.md",
-    "Web Libraries/Styles/CSS Frameworks/Bootstrap.md",
-    "Web Libraries/Styles/CSS Frameworks/Material UI.md",
-    "Web Libraries/Styles/CSS Frameworks/Tailwind CSS.md",
-    "Web Libraries/Styles/CSS Frameworks",
-    "Web Libraries/Vue Frameworks/Nuxt JS.md",
-    "Web Libraries/React Frameworks/Astro.md",
-    "Web Libraries/React Frameworks/Next JS.md",
     "Web Libraries/Styles/Preprocessors/Sass.md",
     "Web Libraries/Styles/Preprocessors/PostCSS.md",
-    "Web Libraries/Vue.md",
-    "Web Libraries/React.md",
-    "Web Libraries/Angular.md",
+    "Web Libraries/Styles/CSS Frameworks/Tailwind CSS.md",
+    "Web Libraries/Styles/CSS Frameworks/Shadcn.md",
+    "Web Libraries/Styles/CSS Frameworks/Material UI.md",
+    "Web Libraries/Styles/CSS Frameworks/Bootstrap.md",
+    "Web Libraries/Vue Frameworks/Nuxt JS.md",
     "Web Libraries/Svelte Framewroks/Svelte Kit.md",
+    "Web Libraries/Styles/CSS.md",
+    "Web Libraries/Styles/Preprocessors",
+    "Web Libraries/Styles/CSS Frameworks",
+    "Web Libraries/React Frameworks/Next JS.md",
+    "Web Libraries/React Frameworks/Astro.md",
+    "Web Libraries/Package Managers/yarn.md",
+    "Web Libraries/Package Managers/pnpm.md",
+    "Web Libraries/Package Managers/npm.md",
+    "Web Libraries/Module Bundlers/Webpack.md",
+    "Web Libraries/Module Bundlers/Vite.md",
+    "Web Libraries/Linters and Formatters/Prettier.md",
+    "Web Libraries/Linters and Formatters/ESLint.md",
+    "Web Libraries/Vue Frameworks",
+    "Web Libraries/Vue.md",
     "Web Libraries/Svelte.md",
     "Web Libraries/Svelte Framewroks",
-    "Web Libraries/Vue Frameworks",
-    "Web Libraries/React Frameworks",
-    "Web Libraries",
-    "Web Libraries/Styles/Preprocessors",
-    "Programming Languages/Javascript.md",
     "Web Libraries/Styles",
+    "Web Libraries/React.md",
+    "Web Libraries/React Frameworks",
+    "Web Libraries/Package Managers",
+    "Web Libraries/Module Bundlers",
+    "Web Libraries/Linters and Formatters",
+    "Web Libraries/Angular.md",
+    "Web Libraries",
+    "Programming Languages/Dart.md",
+    "Programming Notes.md",
     "Programming Languages/Typescript.md",
-    "Programming Languages/Shell.md"
+    "Programming Languages/Swift.md"
   ]
 }
