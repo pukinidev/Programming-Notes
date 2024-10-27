@@ -4,7 +4,6 @@
 
 ## Git
 
-
 ## Programming Languages 
 
 | **Image**                                                                                                              | **Language**   |
