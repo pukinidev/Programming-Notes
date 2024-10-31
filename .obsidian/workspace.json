@@ -178,6 +178,8 @@
   },
   "active": "5e4a81ab285ed58f",
   "lastOpenFiles": [
+    "Web Libraries/Vue.md",
+    "Programming Notes.md",
     "Web Libraries/Styles/Preprocessors/Sass.md",
     "Web Libraries/Styles/Preprocessors/PostCSS.md",
     "Web Libraries/Styles/CSS Frameworks/Tailwind CSS.md",
@@ -199,7 +201,6 @@
     "Web Libraries/Linters and Formatters/Prettier.md",
     "Web Libraries/Linters and Formatters/ESLint.md",
     "Web Libraries/Vue Frameworks",
-    "Web Libraries/Vue.md",
     "Web Libraries/Svelte.md",
     "Web Libraries/Svelte Framewroks",
     "Web Libraries/Styles",
@@ -211,7 +212,6 @@
     "Web Libraries/Angular.md",
     "Web Libraries",
     "Programming Languages/Dart.md",
-    "Programming Notes.md",
     "Programming Languages/Typescript.md",
     "Programming Languages/Swift.md"
   ]
